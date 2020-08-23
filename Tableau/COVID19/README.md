@@ -2,7 +2,9 @@
 ## Caso Peru  
 
 ###  
-Para el analisis de casos en Peru descargamos la data del Ministerio de Salud,luego la procesamos y limpiamos con Tableau Prep  
+Para el analisis de casos en Peru descargamos la data del Ministerio de Salud,luego se proceso y limpio con Tableau Prep.
+  
+Posteriormente se procedio a la construccion del dashboard intereactivo
 ###  
 ###  
 ![COVID19_Peru](https://user-images.githubusercontent.com/28151442/90969117-7ec34d80-e4ba-11ea-9a96-1120c947a832.JPG)  
