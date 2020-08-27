@@ -2,7 +2,7 @@
 ## Dashboard
 Se utilzo datos de los alumnos con tutorias al final de cada ciclo en la Facultad de Ingenieria de Sistemas e Informatica de la UNMSM.
 
-![tutria tableau](https://user-images.githubusercontent.com/28151442/91378416-00321d00-e7e6-11ea-8557-b184c8a71ad0.JPG)  
+![Dash](https://user-images.githubusercontent.com/28151442/91380747-5c4b7000-e7eb-11ea-99b4-c540d6f7af9c.JPG)
   
 ## Datos por facultad 
 Se creo jerarquias para poder agrupar las facultades y carreras y de esta forma facilitar el analisis de la cantidad de tutorias
